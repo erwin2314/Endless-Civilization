@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\bin\Debug\net9.0\Endless Civilization.exe
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\bin\Debug\net9.0\Endless Civilization.deps.json
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\bin\Debug\net9.0\Endless Civilization.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\bin\Debug\net9.0\Endless Civilization.dll
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\bin\Debug\net9.0\Endless Civilization.pdb
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.dll
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\refint\Endless Civilization.dll
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.pdb
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\Endless Civilization.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Endless Civilization\obj\Debug\net9.0\ref\Endless Civilization.dll

@@ -1,1 +1,0 @@
-c#, UTF-8, Consola de texto

@@ -1,0 +1,1 @@
+No existen naves individuales, solo flotas (pueden estar formadas por una sola nave)

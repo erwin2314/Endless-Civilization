@@ -1,0 +1,1 @@
+Los sistemas solares se consideraran como las ciudades en civ 5 y se llamaran de esa forma o Sistema solar, los dos son validos
