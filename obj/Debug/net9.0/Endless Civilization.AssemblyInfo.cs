@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Endless Civilization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983245f2f8462c4407af1bb5c76a7616dd9a46c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3c0b7090d69f24cfbfe0bd4c57cb4d9e0c84835")]
 [assembly: System.Reflection.AssemblyProductAttribute("Endless Civilization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Endless Civilization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
